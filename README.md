@@ -1,15 +1,15 @@
-# React Project Structure
+# React Project Structure Proposal
 
 # Folder Structure Explanation
 1. assets/
 - Holds static files such as images, fonts, and icons.
 - Organizes the project by keeping media files separate from code.
--
+
 2. components/
 - Holds reusable UI components.
 - Subdirectory common/ contains generic components such as buttons, inputs, etc.
 - Encourages reusability and separation of concerns.
--
+
 3. pages/
 - Holds page-level components (views).
 - Each file is a route or a significant section of the app.
