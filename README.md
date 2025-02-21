@@ -33,7 +33,7 @@
 
 8. styles/
 - Has global and modular CSS files.
-- Modular styles (i.e., Home.module.css) provide scoped styling.
+- Modular styles provide scoped styling.
 
 9. App.jsx
 - Application root component.
